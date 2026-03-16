@@ -1,0 +1,21 @@
+{
+  "name": "postman_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Githinji0/POSTMAN_SEARCH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Githinji0/POSTMAN_SEARCH/issues"
+  },
+  "homepage": "https://github.com/Githinji0/POSTMAN_SEARCH#readme"
+}
